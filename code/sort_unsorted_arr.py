@@ -9,7 +9,7 @@ import sorting_algo
 very_start_time = time.time()
 
 # Define max_size of arr, # of iterations, and max_value of each arr
-max_size = 10000
+max_size = 1000
 max_value = 10000
 num_iterations = 10
 
