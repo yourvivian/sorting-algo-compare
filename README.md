@@ -16,7 +16,7 @@ The list of sizes of the sorted arrays.
 This code measures and compares the average execution times of different sorting algorithms using randomly generated arrays. The sorting algorithms included in this comparison are Bubble Sort, Insertion Sort, Merge Sort, and Quick Sort. The code will plot the average running time per array for each sorting algorithms.
 
 ![unsorted_10k](figure/unsorted_10k.png)
-*This graph illustrates the comparison for randomly generated arrays with sizes ranging up to 1,000 and maximum value of 10,000. Each array size is iterated 10 times.*
+*<br/>This graph illustrates the comparison for randomly generated arrays with sizes ranging up to 1,000 and maximum value of 10,000. Each array size is iterated 10 times.*
 
 ![unsorted_120](figure/unsorted_120.png)
 *This graph illustrates the comparison for randomly generated arrays with sizes ranging up to 120 and maximum value of 10,000. Each array size is iterated 10 times. We can see that for array sizes below 30, Merge Sort takes longer than Bubble Sort. For array sizes ranging from 20 to approximately 75, Merge Sort takes longer than Insertion Sort.*
